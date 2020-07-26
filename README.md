@@ -1,4 +1,4 @@
-# FF14-price-tracking
+# FF14-crafting price
 
 
 基于FF14 WIKI和universalis.app的一个东西
